@@ -1,0 +1,7 @@
+Limbaje folosite:
+  1. DataBase - MySQL
+  2. HTML, CSS, JavaScript
+  3. PHP
+  
+Frameworks\library:
+  1. Bootstrap
